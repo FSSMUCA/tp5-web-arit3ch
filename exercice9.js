@@ -6,5 +6,5 @@ function factorielle(n) {
     }
 }
 
-let nombre = Number(prompt("Entrez un nombre pour calculer sa factorielle :"));
+let nombre = Number(prompt("entrez un nombre pour calculer sa factorielle :"));
 console.log(`Factorielle de ${nombre} =`, factorielle(nombre));

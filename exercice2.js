@@ -1,4 +1,4 @@
-let prenom = "Sara";
+let prenom = "sara";
 let age = 22;
 
 let phrase = "Je m'appelle " + prenom + " et j'ai " + age + " ans";

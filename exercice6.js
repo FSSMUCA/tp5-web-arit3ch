@@ -9,5 +9,5 @@ for (let i = 1; i <= 50; i++) {
     }
 }
 
-console.log("Somme des pairs :", sommePairs);
-console.log("Somme des impairs :", sommeImpairs);
+console.log("somme des pairs :", sommePairs);
+console.log("somme des impairs :", sommeImpairs);

@@ -6,4 +6,4 @@ let totalHT = Number(prompt("Entrez le total HT :"));
 let remise = Number(prompt("Entrez la remise (%) :"));
 
 let totalFinal = totalAvecRemise(totalHT, remise);
-console.log("Total final :", totalFinal);
+console.log("total final :", totalFinal);

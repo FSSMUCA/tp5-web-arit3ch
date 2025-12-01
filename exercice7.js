@@ -2,7 +2,7 @@ function verifierMotDePasse(mdp) {
     return mdp.length >= 8 && mdp.includes("@");
 }
 
-let motDePasse = prompt("Entrez un mot de passe :");
+let motDePasse = prompt("entrez un mot de passe :");
 
 if (verifierMotDePasse(motDePasse)) {
     console.log("Mot de passe valide");

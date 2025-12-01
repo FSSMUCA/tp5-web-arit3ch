@@ -6,5 +6,5 @@ function sommeIterative(n) {
     return total;
 }
 
-let n = Number(prompt("Entrez n pour la somme itérative :"));
-console.log("Somme itérative =", sommeIterative(n));
+let n = Number(prompt("entrez n pour la somme itérative :"));
+console.log("somme itérative =", sommeIterative(n));

@@ -1,4 +1,4 @@
-let n = Number(prompt("Entrez un nombre : "));
+let n = Number(prompt("entrez un nombre : "));
 
 if (n < 0) {
     console.log("Nombre négatif");
